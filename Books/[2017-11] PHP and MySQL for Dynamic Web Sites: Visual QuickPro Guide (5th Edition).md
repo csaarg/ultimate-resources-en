@@ -19,4 +19,4 @@ Easy visual approach uses demonstrations and real-world examples to guide you st
 
 # Resources
 
-* PDF Optimized original with bookmarks: [UploadBoy](http://uploadboy.me/b755pwmnmrix/%5B2017-11%5D%20PHP%20and%20MySQL%20for%20Dynamic%20Web%20Sites%D7%83%20Visual%20QuickPro%20Guide%20(5th%20Edition)_Optimized%20original%20with%20bookmarks.pdf.html)
+* PDF Optimized original with bookmarks: [UploadBoy](http://uploadboy.me/b755pwmnmrix/%5B2017-11%5D%20PHP%20and%20MySQL%20for%20Dynamic%20Web%20Sites_Visual%20QuickPro%20Guide%20(5th%20Edition)_Optimized%20original%20with%20bookmarks.pdf.html)
