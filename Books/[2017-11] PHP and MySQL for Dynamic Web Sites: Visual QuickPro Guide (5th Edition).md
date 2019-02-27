@@ -1,4 +1,4 @@
-![](https://images-cn.ssl-images-amazon.com/images/I/51ywj144QsL.jpg)
+![](https://images-na.ssl-images-amazon.com/images/I/51ywj144QsL.jpg)
 
 ## Content Abstract
 
