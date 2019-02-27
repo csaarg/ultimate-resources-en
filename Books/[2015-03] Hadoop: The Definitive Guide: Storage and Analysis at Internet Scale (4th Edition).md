@@ -20,4 +20,4 @@ Tom White has been an Apache Hadoop committer since February 2007, and is a memb
 
 # Resources
 
-* PDF Original with bookmarks: [UploadBoy](http://uploadboy.me/b755pwmnmrix/%5B2017-11%5D%20PHP%20and%20MySQL%20for%20Dynamic%20Web%20Sites_Visual%20QuickPro%20Guide%20(5th%20Edition)_Optimized%20original%20with%20bookmarks.pdf.html)
+* PDF Original with bookmarks: [UploadBoy](http://uploadboy.me/ysuuchj3ztl7/%5B2015-03%5D%20Hadoop_The%20Definitive%20Guide_Storage%20and%20_ysis%20at%20Internet%20Scale%20(4th%20Edition)_Original%20with%20bookmarks.pdf.html)
